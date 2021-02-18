@@ -1,12 +1,11 @@
-### Hi there 👋
+### Hi there, I'm Cid. 👋
 
 - 🌱 I’m currently learning vue3 && react
 - 📫 How to reach me: 959418392@qq.com
 - 💬 Ask me about anything [here](https://github.com/snow-sprite/snow-sprite/issues)
 
-[![snow-sprite's GitHub Stats](https://github-readme-stats.vercel.app/api?username=snow-sprite&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snow-sprite&layout=compact&hide=html&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats" align="center"><img src="https://github-readme-stats.vercel.app/api?username=snow-sprite&show_icons=true&theme=tokyonight" alt="snow-sprite's github stats" /></a>
+<a href="https://github.com/anuraghazra/github-readme-stats" align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snow-sprite&layout=compact&hide=html&theme=tokyonight" /></a>
 <!--
 **snow-sprite/snow-sprite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
