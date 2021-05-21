@@ -14,6 +14,10 @@
 <a href="javascript:;"><img  align="center" src="https://github-readme-stats.vercel.app/api?username=snow-sprite&show_icons=true&theme=tokyonight" alt="snow-sprite's github stats" /></a>
 <a href="javascript:;"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snow-sprite&layout=compact&hide=html&theme=tokyonight" /></a>
 
+**Profile views since 2021/05/21**
+
+![](https://komarev.com/ghpvc/?username=snow-sprite&color=blueviolet&style=plastic&label=PROFILE+VIEWS)
+
 <!--
 **snow-sprite/snow-sprite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
