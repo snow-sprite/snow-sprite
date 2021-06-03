@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning vue3 && react
 - 📫 How to reach me: 959418392@qq.com
-- 💬 Ask me about anything [here](https://github.com/snow-sprite/snow-sprite/issues)
+- 💬 Ask me about anything [here](https://github.com/snow-sprite/snow-sprite/issues/new)
 
 **Languages and Tools:**  
 
