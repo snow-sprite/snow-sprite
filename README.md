@@ -16,7 +16,7 @@
 
 **Profile views since 2021/05/21**
 
-![](https://komarev.com/ghpvc/?username=snow-sprite&color=blueviolet&style=plastic&label=PROFILE+VIEWS)
+![](https://komarev.com/ghpvc/?username=snow-sprite&color=blueviolet&style=plastic&label=hello+u!)
 
 <!--
 **snow-sprite/snow-sprite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
